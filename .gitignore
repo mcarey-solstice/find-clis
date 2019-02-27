@@ -1,0 +1,60 @@
+##
+# General Ignore
+##
+
+/bin/
+/vendor/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+/.envrc
+
+# Storage
+.docker/
+.vagrant/
+.cache/
+.storage/
+
+##
+# Common
+##
+
+*.gz
+*.bak
+*.log
+*.tar
+*.tmp
+*.tgz
+*.zip
+
+##
+# OS Files
+##
+
+# Mac OS
+.DS_Store
+._*
+.Trashes/
+
+# Linux
+*~
+*.swp
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# .gitignore

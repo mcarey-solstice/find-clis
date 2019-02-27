@@ -1,0 +1,2 @@
+/var/vcap/packages/cf-mgmt/bin/cf-mgmt
+/var/vcap/packages/cf-mgmt/bin/cf-mgmt-config
